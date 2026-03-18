@@ -11,7 +11,7 @@
 
 ### About
 
-4td year Computer Engineering student focused on AI, machine learning, and full-stack development. Building projects with local LLMs, computer vision, and web technologies.
+4th year Computer Engineering student focused on AI, machine learning, and full-stack development. Building projects with local LLMs, computer vision, and web technologies.
 
 ### Featured Project
 
