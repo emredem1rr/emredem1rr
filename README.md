@@ -11,7 +11,7 @@
 
 ### About
 
-4th year Computer Engineering student focused on AI, machine learning, and full-stack development. Building projects with local LLMs, computer vision, and web technologies.
+I am passionate about software development and enjoy building projects in web, mobile, backend, database, and various other technological domains. I like solving problems, am eager to learn new technologies, and thrive in collaborative, team-oriented environments. My goal is to continuously improve myself while contributing to innovative and impactful projects.
 
 ### Featured Projects
 
