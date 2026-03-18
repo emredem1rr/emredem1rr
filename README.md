@@ -13,9 +13,23 @@
 
 4th year Computer Engineering student focused on AI, machine learning, and full-stack development. Building projects with local LLMs, computer vision, and web technologies.
 
-### Featured Project
+### Featured Projects
 
-🎓 **[ScholarAgent](https://github.com/emredem1rr/scholar-agent)** — Multi-agent scientific paper analysis system. 3 autonomous agents, 6 analysis tools, 12 languages, hybrid RAG, fully local with Ollama.
+🎓 **[ScholarAgent](https://github.com/emredem1rr/scholar-agent)**
+Multi-agent scientific paper analysis system powered by local LLMs.
+`3 Agents` `6 Tools` `12 Languages` `Hybrid RAG` `Ollama` `Flask`
+
+🔍 **[Code Analysis Agent](https://github.com/emredem1rr/code-analysis-agent)**
+Autonomous AI security scanner working with local LLM.
+`Python` `Ollama` `Static Analysis`
+
+🕳️ **[Pothole Detection](https://github.com/emredem1rr/pothole-detection)**
+Real-time pothole detection using computer vision.
+`Python` `YOLOv8` `OpenCV`
+
+❤️ **[Heart Disease Prediction](https://github.com/emredem1rr/heart-disease-prediction)**
+UCI Heart Disease risk prediction with 86% accuracy.
+`Python` `Scikit-learn` `Pandas`
 
 ### Tech Stack
 
