@@ -3,8 +3,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emre-demir-7a1757257/">LinkedIn</a> · 
-  <a href="https://twitter.com/emredem1r_">Twitter</a> · 
-  <a href="https://www.instagram.com/emre.dem1r/">Instagram</a>
 </p>
 
 ---
