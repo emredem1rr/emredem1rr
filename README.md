@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre Demir</h1>
-<h3 align="center">Computer Engineering Student · AI & Backend Developer</h3>
+<h3 align="center">Computer Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emre-demir-7a1757257/" target="_blank">
